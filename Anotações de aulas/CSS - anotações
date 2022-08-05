@@ -1,0 +1,20 @@
+CSS
+
+Anotações importantes
+
+* seletor { propriedade: valor; }  ----- Sintaxe basica do CSS
+* h1 { color: red; }
+* pode ter mais de uma declaração na mesma regra
+  
+* pratica mais adotada é utilizar um arquivo externo atraves de <link href>
+* todo elemento html pode receber um atributo class, que ajuda np desenvolvimento css
+ html ---> <p class="minha-aula>
+ css ---> .minha aula { ... }
+* tambem é possivel fazer isso com o atributo id
+ html ---> <p id="minha-aula>
+ css ---> #minha aula { ... }
+* o Id só pode ser usado uma vez por página enquanto o class pode ser utilizado para varios lugares da pagina, com  mesma nomenclatura.
+* font : -family , -size , -style , -variant
+* text : -align , -decoration, -ident , -transform
+* color ( é a cor do texto)
+* background-color

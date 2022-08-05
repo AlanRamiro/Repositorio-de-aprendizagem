@@ -1,0 +1,36 @@
+HTML - 
+
+Anotações importantes
+
+* Tags <h1>, <h2> e ... servem para hierarquizar a importancia da informação no html
+* As tags <em> e <strong> dão importancia semantica, além de deixar visualmente o texto italico e negrito, respectivamente
+* Para criação de lista não ordenada utilizar a <ul> e para cada item usar a tag <li>. A tag <ol> é para listas ordenadas.
+* A tag <a> é uma das mais importantes do desenvolvimento HTML, pois ela cria vinculos entre paginas através de links.
+* <tag atributo="valor"> texto </tag> ----- <a href="https://www.globo.com"> Acesse a Globo.com </a>
+* o atributo TARGET indica se a o link será aberto em uma nova pagina ou não
+* <a href="#secao"> leva o usuário a uma outra parte da mesma pagina ao clicar nele, dando um scroll até o ponto que queremos
+* <a href="#"> cria um link falso, para ser trocado por um verdadeiro posteriormente
+* tag <br> é uma quebra de linha e a tag <hr> queba alinha adicionando uma linha horizontal.
+
+
+Estrutura Semantica Básica
+
+
+* <html lang="pt-br">
+     <Head>
+        <title> Titulo da página </title>
+        <meta tags>
+        <link para arquivos externos>
+     </head>
+
+     <body>
+        <!-- Observação não mostrada pelo navegador -->
+     </body>
+
+* <!doctype html> é uma declaração ao browser que a pagina é html. isso não é uma tag
+* atributo SRC é para desginar a fonte da imagem os script (Source)
+* atributo ALT é para mostrar um texto alternativo caso haja falha no carregamento da imagem
+
+
+
+
