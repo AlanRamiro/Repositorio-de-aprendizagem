@@ -17,4 +17,20 @@ Anotações importantes
 * font : -family , -size , -style , -variant
 * text : -align , -decoration, -ident , -transform
 * color ( é a cor do texto)
-* background-color
+
+
+Dicas
+
+* as propriedades margin e padding podem ser configuradas sequencialmente, sem que precise criar uma linha para top, right, bottom e left separadamente
+   ex: h1 {
+ 	    padding: 50px 20px 50px 20px;
+          }
+a ordem nesse caso é TOP , RIGHT , BOTTOM e LEFT , como se fosse o sentido horário do relógio
+
+* na propriedade border também é possivel abreviar na sequencia STYLE , WIDTH e COLOR
+ ex: h1 {
+ 	    border: dotted 5px red;
+          }
+
+
+ 	
