@@ -71,6 +71,7 @@ section{
     margin: 20px 40px;
     height: 300px;
     display: flex;
+    justify-items: center;
 }
 
 .seletores, .posicionamento, .fontes-icones{
