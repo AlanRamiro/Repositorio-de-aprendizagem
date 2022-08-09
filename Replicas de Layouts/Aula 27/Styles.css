@@ -73,6 +73,7 @@ section{
     display: flex;
     box-sizing: border-box;
     overflow: visible;
+    justify-items: center;
 }
 
 .seletores, .posicionamento, .fontes-icones{
